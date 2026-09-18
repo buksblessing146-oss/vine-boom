@@ -1,0 +1,6 @@
+{
+  "name": "AURA Skincare",
+  "description": "A simple, premium, and minimalist skincare brand website for AURA, focused on clean, effective, and gentle skincare for healthy, glowing skin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
